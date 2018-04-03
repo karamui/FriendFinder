@@ -14,5 +14,6 @@ You can play with this application on [Heroku](https://boiling-plains-55895.hero
 * JavaScript
 * jQuery
 * Node.js
+* Node.js packages (body-parser, express, path)
 * Express.js
 * Heroku
